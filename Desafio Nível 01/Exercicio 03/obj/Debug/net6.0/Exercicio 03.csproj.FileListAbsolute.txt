@@ -1,0 +1,15 @@
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\bin\Debug\net6.0\Exercicio 03.exe
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\bin\Debug\net6.0\Exercicio 03.deps.json
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\bin\Debug\net6.0\Exercicio 03.runtimeconfig.json
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\bin\Debug\net6.0\Exercicio 03.dll
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\bin\Debug\net6.0\Exercicio 03.pdb
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\obj\Debug\net6.0\Exercicio 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\obj\Debug\net6.0\Exercicio 03.AssemblyInfoInputs.cache
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\obj\Debug\net6.0\Exercicio 03.AssemblyInfo.cs
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\obj\Debug\net6.0\Exercicio 03.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\obj\Debug\net6.0\Exercicio 03.sourcelink.json
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\obj\Debug\net6.0\Exercicio 03.dll
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\obj\Debug\net6.0\refint\Exercicio 03.dll
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\obj\Debug\net6.0\Exercicio 03.pdb
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\obj\Debug\net6.0\Exercicio 03.genruntimeconfig.cache
+C:\Users\ivan.ostorari\Desktop\PROJETOS\FORMAÇÃO C# ROCKTSEAT\FORMACAO_CSHAP_ROCKETSEAT\Desafio Nível 01\Exercicio 03\obj\Debug\net6.0\ref\Exercicio 03.dll
